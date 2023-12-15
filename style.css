@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: Lato, sans-serif;
+  color: #54575A;
+  background: linear-gradient(180deg, #FFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
+}
+
+.wrapper {
+  position: relative;
+  width: 1440px;
+  height: 1379px;
+  margin: auto;
+}
+
+.logo-img {
+  position: absolute;
+  left: 221px;
+  top: 50.25px;
+  width: 193px;
+  height: 47.638px;
+  flex-shrink: 0;
+}
+
+.title {
+  position: absolute;
+  left: 221px;
+  top: 236px;
+  width: 458px;
+  height: 135px;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 67.5px;
+}
+
+.text {
+  position: absolute;
+  left: 221px;
+  top: 403px;
+  width: 394px;
+  height: 96px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.app-store-button {
+  position: absolute;
+  left: 221px;
+  top: 531px;
+  flex-shrink: 0;
+}
+
+.app-store-button img {
+  width: 138.443px;
+  height: 46.278px;
+}
+
+.google-play-button {
+  position: absolute;
+  left: 381.81px;
+  top: 531px;
+  flex-shrink: 0;
+}
+
+.google-play-button img {
+  width: 156.186px;
+  height: 46.277px;
+}
+
+.main-image-container {
+  position: absolute;
+  left: 683.28px;
+  top: 229.73px;
+  flex-shrink: 0;
+}
+
+.main-image-container img {
+  height: 411.15px;
+}
+
+.cart-img {
+  position: absolute;
+  left: 221px;
+  right: 995px;
+  top: 1157px;
+  height: 222px;
+}
+
+.orders-img {
+  position: absolute;
+  left: 479px;
+  right: ;
+  top: 913px;
+  height: 470px;
+}
+
+.profile-img {
+  position: absolute;
+  left: 737px;
+  right: ;
+  top: 686px;
+  height: 444px;
+}
+
+.product-img {
+  position: absolute;
+  left: 737px;
+  right: ;
+  top: 1157px;
+  height: 222px;
+}
+
+.home-img {
+  position: absolute;
+  left: 995px;
+  right: ;
+  top: 908px;
+  height: 470px;
+}

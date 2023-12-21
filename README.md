@@ -9,7 +9,7 @@ https://engrshege.github.io/designer-to-developer-handoff/
 
 Picture Preview:
 
-![designer_handoff](./images/live_capture.png)
+![designer_to_developer_handoff](./img/live_capture.png)
 
 Video Preview:
 

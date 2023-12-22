@@ -13,7 +13,8 @@ Picture Preview:
 
 Video Preview:
 
-https://user-images.githubusercontent.com/52855925/219982109-0519c6ee-c789-4ef2-b2ae-bdc530ff39a0.mp4
+https://github.com/engrshege/designer-to-developer-handoff/assets/52855925/e2474238-b7fe-458a-8240-01b5791c5471
+
 
 
 ## Built With
